@@ -1,0 +1,3 @@
+ Los "degenerate primers" se refieren a oligonucleótidos utilizados en biología molecular y técnicas de amplificación de ácidos nucleicos, como la reacción en cadena de la polimerasa (PCR). Estos primers contienen posiciones en las que se permite más de un nucleótido en una posición específica, lo que permite amplificar secuencias de ADN que pueden variar en ciertas posiciones.
+
+La degeneración en los primers es útil cuando se trabaja con secuencias genómicas que pueden tener variaciones genéticas en determinadas posiciones. Al incorporar degeneración en los primers, se amplifican secuencias de ADN incluso si hay variaciones en la secuencia objetivo, lo que aumenta la capacidad de detectar genes homólogos en diferentes especies o cepas.
